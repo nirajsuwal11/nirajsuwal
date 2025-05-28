@@ -447,6 +447,9 @@ font-size: 12px;}
   #SKILLS
 \*-----------------------------------*/
 
+.section skills {
+background-color: lightblue;
+}
 .skills .section-title { margin-block-end: 20px;
                      
                        }
