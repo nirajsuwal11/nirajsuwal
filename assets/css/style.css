@@ -416,7 +416,7 @@ font-size: 12px;}
 .portfolio-list > li:nth-child(even) .card-content { margin-inline-start: auto; }
 
 .portfolio-card .card-subtitle {
-  color: white;
+  color: blue;
   margin-block-end: 5px;
 }
 
